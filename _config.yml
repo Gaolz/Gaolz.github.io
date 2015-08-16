@@ -1,6 +1,7 @@
-markdown: rdiscount
+highliter: pygments
+markdown: redcarpet
 permalink: /posts/:title
-rdiscount:
+redcarpet:
   extensions: [smart]
 
 gems:
