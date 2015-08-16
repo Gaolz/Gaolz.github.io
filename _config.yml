@@ -6,7 +6,7 @@ rdiscount:
 gems:
   - jekyll-sitemap
 
-name: Gaolz
-url: http://gaowanxing.com
-description: A fantastic blog that is fantastic.
+name: 高老庄
+url: http://gaolz.github.io
+description: 高老庄的博客
 twitter: Gaolz
